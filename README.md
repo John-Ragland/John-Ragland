@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm a PhD student at the University of Washington. Alot of my code associated with my current research is private. Please feel free to reach out to me if you have any questions.
+
+
+#### 🔭 I’m currently working on ...
+Ambient Noise Interferometry - using ambient sound to measure acoustic propagation in the ocean. Check out a talk a gave at ASA https://asa.scitation.org/doi/abs/10.1121/10.0004609
+
+OOIPy - platform for accessing OOI data to accelerate scientific research.
+https://github.com/ooipy/ooipy
+
+#### 📫 How to reach me: ...
+please feel free to reach out to me at jhrag (at) uw dot edu
 <!--
 **John-Ragland/John-Ragland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
