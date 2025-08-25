@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a Postdoc at the University of Washington. Alot of my code associated with my current research is private. Please feel free to reach out to me if you have any questions.
+I'm a Postdoc at the Woods Hole Oceanographic Institution. Alot of my code associated with my current research is private. Please feel free to reach out to me if you have any questions.
 
 
 #### 🔭 I’m currently working on ...
-Ocean Basin Acoustic Propagation with the Kauai Beacon - using sound to measure the temperature of the ocean.
+Fluctuations of acoustic phase and intensity.
 
 #### 📫 How to reach me: ...
-please feel free to reach out to me at jhrag (at) uw dot edu
+please feel free to reach out to me at john.ragland (at) whoi dot edu
 
 
 <!--
